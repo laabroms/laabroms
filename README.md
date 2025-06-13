@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate frontend developer based in New York City.</h3>
+<h3 align="center">A full-stack engineer based in New York City.</h3>
 
 - 👨‍💻 All of my projects are available at [lucasabroms.com](https://www.lucasabroms.com)
 
