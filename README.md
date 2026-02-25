@@ -22,6 +22,8 @@ I make tools that make me less annoyed, and apps that make life more fun.
 
 ---
 
+<div align='center'>
+ 
 #### 🧪 things i'm building
 
 | | | |
@@ -42,6 +44,17 @@ I make tools that make me less annoyed, and apps that make life more fun.
 ```
 bouldering, running, soccer, cooking, photography, reading, hiking, snowboarding
 ```
+
+</div>
+
+---
+
+<div align='center'>
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laabroms&theme=dark)
+
+</div>
+
 ---
 
 <div align="center">
