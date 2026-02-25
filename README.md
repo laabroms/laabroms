@@ -40,7 +40,7 @@ I make tools that make me less annoyed, and apps that make life more fun.
 
 #### 🧗 when i'm not coding
 
-bouldering > running > soccer > cooking > photography > reading > arguing about lens sharpness
+bouldering, running, soccer, cooking, photography, reading
 
 ---
 
