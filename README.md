@@ -8,6 +8,9 @@
  ███████╗╚██████╔╝╚██████╗██║  ██║███████║
  ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
 ```
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=hello%20world%3Bi%20am%20lucas%3Ba%20software%20engineer%20at%20perplexity&font=Fira%20Code&center=true&width=440&height=45&color=26cc42&vCenter=true&size=22"> -->
+
+<h1>Hi, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"></h1>
 
 **engineer @ [perplexity](https://perplexity.ai) · previously [rippling](https://rippling.com), [amazon](https://amazon.com) · nyc 🗽**
 
