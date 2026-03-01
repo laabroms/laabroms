@@ -14,7 +14,6 @@
 
 **engineer @ [perplexity](https://perplexity.ai) · previously [rippling](https://rippling.com), [amazon](https://amazon.com) · nyc 🗽**
 
-I make tools that make me less annoyed, and apps that make life more fun.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasabroms)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@WebDevTipsAndTricks)
@@ -38,10 +37,11 @@ I make tools that make me less annoyed, and apps that make life more fun.
 | 🏷️ [**PriceGoddess**](https://pricegoddess.com) | Price drop alerts that actually work | `live` |
 
 #### 🧰 tools of choice
-
-```
- TypeScript ∙ Python ∙ React ∙ Next.js ∙ Node ∙ Postgres ∙ Tailwind
-```
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### 🧗 when i'm not coding
 ```
