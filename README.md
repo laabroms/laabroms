@@ -30,7 +30,7 @@
 
 | | | |
 |---|---|---|
-| 🌍 **MemoryMap** | Photo journeys — relive your travels | `building` |
+| 📚 **Bookworm** | A home for your reading life | `building` |
 | 📂 [**repo-switch**](https://github.com/laabroms/repo-switch) | Fuzzy-find & jump to any repo on your machine | `shipped` |
 | 🧹 [**git-clean**](https://github.com/laabroms/git-clean) | Kill your dead branches in style | [![npm](https://img.shields.io/npm/v/@laabroms/git-clean?style=flat&color=cb3837&label=)](https://www.npmjs.com/package/@laabroms/git-clean) |
 | ⌨️ [**alias-cli**](https://github.com/laabroms/alias-cli) | TUI for managing shell aliases | [![npm](https://img.shields.io/npm/v/@laabroms/alias-cli?style=flat&color=cb3837&label=)](https://www.npmjs.com/package/@laabroms/alias-cli) |
